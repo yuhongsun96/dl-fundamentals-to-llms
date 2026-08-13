@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Local tooling config (machine-specific)
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Agent instructions (kept local)
+CLAUDE.md
